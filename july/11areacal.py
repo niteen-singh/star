@@ -1,0 +1,1 @@
+print(f"The area of the circle is:{round((22/7)*float(input("Enter the radius: "))**2,2)}")
